@@ -532,11 +532,12 @@ body {
   padding: 0px 0 20px 0px;
   margin: 0px;
   font: 14px/1.5 "OpenSansRegular", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #f0e7d5;
+  color: #979EA8;
   font-weight: normal;
   background: #2E3D52;
   background-attachment: fixed !important;
   /*
+  color: #f0e7d5;
   background: #252525;
   background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #2a2a29), color-stop(100%, #1c1c1c));
   background: -webkit-linear-gradient(#2a2a29, #1c1c1c);
