@@ -1,1 +1,1 @@
-<youarenotalone.github.io/gettingbetter>
+http://youarenotalone.github.io/gettingbetter
