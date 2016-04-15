@@ -1,4 +1,23 @@
-http://youarenotalone.github.io/gettingbetter
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Notes to self…](#notes-to-self%E2%80%A6)
+  - [Birds and snails](#birds-and-snails)
+    - [Questions of kid](#questions-of-kid)
+    - [Poor and angry](#poor-and-angry)
+    - [Another mouth to feed](#another-mouth-to-feed)
+    - [Going to work](#going-to-work)
+    - [Not unloved](#not-unloved)
+    - [But unhugged](#but-unhugged)
+    - [Not really my problems](#not-really-my-problems)
+- [Some other things I tend to forget about, but possibly shouldn't…](#some-other-things-i-tend-to-forget-about-but-possibly-shouldnt%E2%80%A6)
+  - [Racing! Happy!](#racing-happy)
+  - [Illness](#illness)
+    - [Trigger tears](#trigger-tears)
+    - [Skeleton](#skeleton)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 # Notes to self…
 
