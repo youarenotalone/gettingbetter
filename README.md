@@ -28,6 +28,14 @@
 
 # Notes to self…
 
+## Mo[u]rning Pages
+*There is no wrong way to do Morning Pages*–
+they are not high art. They are not even “writing.” They are about
+anything and everything that crosses your mind– and they are for your eyes
+only. Morning Pages provoke, clarify, comfort, cajole, prioritize and
+synchronize the day at hand. Do not over-think Morning Pages: just put
+three pages of anything on the page…and then do three more pages tomorrow.
+
 ## Birds and snails
 
 ### Questions of kid
